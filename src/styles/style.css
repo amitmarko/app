@@ -1,0 +1,55 @@
+.page-content{
+  margin-left: 95px;
+  margin-right: 95px;
+}
+
+.avatar{
+  border-radius: 50%;
+  width: 33px;
+ height: 33px;
+ object-fit: contain;
+}
+
+.employee_stats{
+  margin-top: 62px;
+}
+.rooms-table{
+  width: 100%;
+  text-align: left;
+  height: 1px;
+  border-bottom:solid 1px #374148;
+  padding-bottom: 31px;
+}
+
+.room-num{
+ width: 56.6px;
+ height: 29px;
+ font-family: Lato;
+ font-size: 24px;
+ font-weight: normal;
+ font-style: normal;
+ font-stretch: normal;
+ line-height: normal;
+ letter-spacing: normal;
+ color: #ffffff;
+}
+
+.employee{
+  height: 55px;
+  color: #72848b;
+  font-size: 12px;
+}
+
+.employee-name{
+  width: 140.2px;
+   height: 18px;
+   font-family: Lato;
+   font-size: 12px;
+   font-weight: 500;
+   font-style: normal;
+   font-stretch: normal;
+   line-height: 1.5;
+   letter-spacing: normal;
+   color: #ffffff;
+
+}
