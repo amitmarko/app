@@ -20,3 +20,4 @@ Our IDE’s of choice is jetbrain’s Webstorm.
 2. Run "yarn" or "npm install" from project folder
 3. Make sure that all is working using "yarn run start" / "npm run start" 
 # whispTest
+# whispTest
